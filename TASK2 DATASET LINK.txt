@@ -1,0 +1,6 @@
+# Large File Download
+
+The dataset or file is too large for GitHub. You can download it here:
+
+[Download file from Google Drive](https://drive.google.com/file/d/1mFXuVGKPdRzGYbaIY0yqKt1kKtVpfUGh/view?usp=drive_link)
+
